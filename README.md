@@ -1,3 +1,13 @@
-This is my first starter project.
+My Project
+---
 
 Welcome.
+
+
+
+Setup
+---
+
+```
+npm install
+```
